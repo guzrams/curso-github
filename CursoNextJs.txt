@@ -1,2 +1,11 @@
-Curso de Next Js
-1.- Next js, es un framework 
+Curso de Next.Js
+
+Framework vs. Biblioteca
+
+- React, es una biblioteca de javascript para construir interfaces de usuario. Se centra en la creación de componentes reutilizables e en la gestión de estado.
+- Next.js, Es un framework construido sobre React que proporciona una serie de características adicionales y convenciones que facilitan el desarrollo de aplicaciones web, especialmente en la creación de aplicaciones del lado del servidor.
+
+Renderizado.
+
+- React, Principalmente se utiliza para el renderizado del lado del cliente (Client-Side-Rendering, CSR), lo que significa que el contenido se genera en el navegador del usuario.
+- Next.js, Soporta múltiples métodos de renderizado, Renderizado del lado del servidor (SSR), Generación de sitios estáticos (SSG) y Renderizado del lado del cliente.  

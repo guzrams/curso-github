@@ -53,7 +53,7 @@ Export const prisma = new PrismaClient();
 - Editar Task,
 - Delete Task,
 - NavBar, 
-- Dar formato a la página en VSCode, 
+- Dar formato a la pagina en VSCode, 
 1. Presionar Ctl+Shit+P
 2. Setting Json
 3. en el archivo colocar “editor.formatOnSave”: true
@@ -69,43 +69,5 @@ Export const prisma = new PrismaClient();
 9. instalar vercel con, npm install vercel –g o npm i vercel –g
 10. escribir en la consola, vercel login
 11. luego, vercel 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Angular
-
-- Instalar angular, npm install -g @angular/cli
-- Crear proyecto, ng new my-app
-- Correr proyecto, ng serve –open
-- Saber la versión de angular, ng versión
-- Para saber la versión del nucleo de angular, npm list @angular/core
-- actulizar el proyecto en frontend, npm install y luego npm audit fix
 
 
